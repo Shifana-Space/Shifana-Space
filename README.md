@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shifana</h1>
+<h1 align="center">Hi 👋, I'm SHIFANA N </h1>
 <h3 align="center">A passionate Front-End Developer and currently learning Advanced Java</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shifana-space&label=Profile%20views&color=0e75b6&style=flat" alt="shifana-space" /> </p>
