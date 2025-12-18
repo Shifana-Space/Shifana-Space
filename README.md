@@ -23,5 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shifana-space&show_icons=true&locale=en" alt="shifana-space" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shifana-space&" alt="shifana-space" /></p>
 
